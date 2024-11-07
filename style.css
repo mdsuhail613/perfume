@@ -13,14 +13,7 @@ li,h1,ul{
 ul{
     margin-left: 60%;
 }
-li{
-    color: gray;
-    cursor: pointer;
-    
-}
-li:hover{
-    color: white;
-}
+
 input{
     width: 65%;
     padding: 15px;
